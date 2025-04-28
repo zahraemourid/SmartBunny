@@ -5,7 +5,6 @@ from tkinter import messagebox
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
 
-# Combien avancer à chaque bonne réponse
 MOVE_STEP = 50
 
 class Game:
